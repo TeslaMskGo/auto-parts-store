@@ -3,8 +3,8 @@ import './globals.css';
 import { CartProvider } from '@/components/cart-context';
 
 export const metadata: Metadata = {
-  title: 'Velocity Auto Parts',
-  description: 'Premium automotive parts and accessories store',
+  title: 'VoltDrive Auto Parts',
+  description: 'Premium EV accessories and performance parts',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

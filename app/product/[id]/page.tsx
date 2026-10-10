@@ -16,8 +16,8 @@ export default function ProductPage({ params }: { params: { id: string } }) {
         <div className="brand-wrap">
           <Link href="/" className="brand-mark">V</Link>
           <div>
-            <p className="eyebrow">Auto Performance</p>
-            <h1 className="brand-name">Velocity Parts</h1>
+            <p className="eyebrow">EV performance</p>
+            <h1 className="brand-name">VoltDrive</h1>
           </div>
         </div>
         <nav className="topnav">

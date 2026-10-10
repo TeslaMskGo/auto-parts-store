@@ -9,7 +9,7 @@ export default function CartRoute() {
           <Link href="/" className="brand-mark">V</Link>
           <div>
             <p className="eyebrow">Your order</p>
-            <h1 className="brand-name">Velocity Parts</h1>
+            <h1 className="brand-name">VoltDrive</h1>
           </div>
         </div>
         <nav className="topnav">
